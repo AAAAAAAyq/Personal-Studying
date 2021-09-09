@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T10:44:58.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="HXZ0YyXL1F0EApN4ayca" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T10:46:56.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="0aBncW7ak4K_8VRtKYTK" version="15.1.2" type="github">
   <diagram id="virT9COEyi9W4f-WZoW9" name="Page-1">
-    <mxGraphModel dx="1767" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7isMHtgnLu8E5VLUzFYS-12" value="Scratch&lt;br&gt;Initialized&lt;br&gt;Network" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;strokeWidth=3;strokeColor=#B0A0C3;fillColor=#FCEBDD;direction=east;rotation=90;" vertex="1" parent="7isMHtgnLu8E5VLUzFYS-1">
-          <mxGeometry x="386" y="-379" width="146.9677419354839" height="83.89380530973452" as="geometry" />
+          <mxGeometry x="385" y="-379" width="146.9677419354839" height="83.89380530973452" as="geometry" />
         </mxCell>
         <mxCell id="7isMHtgnLu8E5VLUzFYS-13" value="Compressed&lt;br&gt;Network" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;strokeWidth=3;strokeColor=#B0A0C3;fillColor=#FCEBDD;direction=east;rotation=90;" vertex="1" parent="7isMHtgnLu8E5VLUzFYS-1">
           <mxGeometry x="384" y="613" width="146.9677419354839" height="83.89380530973452" as="geometry" />
